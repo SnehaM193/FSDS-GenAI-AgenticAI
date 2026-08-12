@@ -197,3 +197,5 @@ FSDS-GenAI-AgenticAI/
 ├── Python/
 │   ├── Variables/
 │   ├── Datatypes/
+│   ├── Slicing_and_Type_Casting/
+│   ├── Operators/
