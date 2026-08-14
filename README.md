@@ -181,23 +181,51 @@ The course covers the following areas:
 
 ---
 
-## 🎯 Current Progress
+## 🧪 Practice Files
 
-**Currently Learning:** Python 🐍
-
-**Status:** 🟡 In Progress
-
----
-
-## 📂 Repository Structure
+The folders contain my hands-on practice files from the course.
 
 ```text
 FSDS-GenAI-AgenticAI/
 │
 ├── Python/
 │   ├── Variables/
-│   ├── Datatypes/
-│   ├── Slicing_and_Type_Casting/
+│   ├── DataTypes/
 │   ├── Bitwise_Operators/
 │   ├── Slicing_and_Type_Casting/
 │   ├── Input_Function/
+│   ├── ...
+│
+├── SQL/
+│   ├── SQL_Basics/
+│   ├── ...
+│
+├── Data_Analysis/
+│
+├── Mathematics_Statistics/
+│
+├── Machine_Learning/
+│
+├── Deep_Learning/
+│
+├── NLP/
+│
+├── Computer_Vision/
+│
+├── Generative_AI/
+│
+├── Agentic_AI/
+│
+├── MLOps/
+│
+├── Projects/
+│   ├── Mini_Projects/
+│   └── ...
+│
+└── README.md
+```
+---
+
+## 🎯 Goal
+
+The goal of this repository is to maintain a structured record of my **learning, practice and projects** throughout my journey in **Data Science, Generative AI, and Agentic AI**.
