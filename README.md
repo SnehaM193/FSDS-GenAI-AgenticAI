@@ -198,4 +198,6 @@ FSDS-GenAI-AgenticAI/
 │   ├── Variables/
 │   ├── Datatypes/
 │   ├── Slicing_and_Type_Casting/
-│   ├── Operators/
+│   ├── Bitwise_Operators/
+│   ├── Slicing_and_Type_Casting/
+│   ├── Input_Function/
