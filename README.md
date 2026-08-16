@@ -194,7 +194,8 @@ FSDS-GenAI-AgenticAI/
 │   ├── Bitwise_Operators/
 │   ├── Slicing_and_Type_Casting/
 │   ├── Input_Function/
-│   ├── ...
+│   ├── String
+│   ├── List 
 │
 ├── SQL/
 │   ├── SQL_Basics/
