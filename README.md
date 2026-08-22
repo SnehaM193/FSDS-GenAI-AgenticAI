@@ -194,7 +194,12 @@ FSDS-GenAI-AgenticAI/
 │   ├── Bitwise_Operators/
 │   ├── Slicing_and_Type_Casting/
 │   ├── Input_Function/
-│   ├── List 
+│   ├── List/
+│   ├── Tuple/
+│   ├── Set/
+│   ├── Dictionary/
+│
+│
 │
 ├── SQL/
 │   ├── SQL_Basics/
