@@ -1,3 +1,6 @@
+
+
+
 # FSDS-GenAI-AgenticAI
 
 This repository documents my learning journey through the **Full Stack Data Science with GenAI & Agentic AI** course.
@@ -199,8 +202,9 @@ FSDS-GenAI-AgenticAI/
 │   ├── Set/
 │   ├── Dictionary/
 │   ├── 50_Input/
+│   ├── Loops/
+│   ├── Functions/
 │   ├── 
-│
 │
 │
 ├── SQL/
