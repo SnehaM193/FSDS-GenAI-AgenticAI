@@ -212,6 +212,11 @@ FSDS-GenAI-AgenticAI/
 │   ├── ...
 │
 ├── Data_Analysis/
+│   ├── NumPy/
+│   ├── Pandas/
+│   ├── Seaborn/
+│   ├── Exploratory Data Analysis (EDA)/
+│   ├── Data Cleaning and Visualization/
 │
 ├── Mathematics_Statistics/
 │
