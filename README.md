@@ -204,7 +204,9 @@ FSDS-GenAI-AgenticAI/
 │   ├── 50_Input/
 │   ├── Conditional_Statements/
 │   ├── Loops/
+│   ├── Patterns/
 │   ├── Functions/
+│
 │
 │
 ├── SQL/
