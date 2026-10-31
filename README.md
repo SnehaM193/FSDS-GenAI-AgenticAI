@@ -31,10 +31,10 @@ The course covers the following areas:
 
 ### 📊 Data Analysis
 - NumPy
-- Pandas
 - Matplotlib
+- Pandas
 - Seaborn
-- SciPy
+- Kaggle
 - Statsmodels
 - Exploratory Data Analysis (EDA)
 - Data Cleaning and Visualization
